@@ -1,11 +1,11 @@
 {
-  "name": "cli-dmrc",
-  "version": "1.0.1",
+  "name": "drmc",
+  "version": "1.0.2",
   "type": "module",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dmrc": "node cli.js"
+    "drmc": "node cli.js"
   },
   "keywords": [],
   "author": "",
