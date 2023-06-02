@@ -1,5 +1,6 @@
 # cli-drmc
 
-The Commad Line Interface to install "devtreasure-react-modal-component
+## Installtion Video Guide
 
-> **Note**: Just run `npm drmc` or `yarn drmc` or `pnpm drmc`
+https://github.com/creative-tutorials/drmc/assets/68476321/c7e993cc-6ca5-45d4-82b4-8c12bab9557c
+
