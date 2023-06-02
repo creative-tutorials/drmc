@@ -1,4 +1,4 @@
-# cli-dmrc
+# cli-drmc
 
 The Commad Line Interface to install "devtreasure-react-modal-component
 
