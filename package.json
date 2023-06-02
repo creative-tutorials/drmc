@@ -1,13 +1,21 @@
 {
   "name": "drmc",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "type": "module",
   "description": "",
   "main": "index.js",
   "scripts": {
     "drmc": "node cli.js"
   },
-  "keywords": [],
+  "keywords": [
+    "commad-line-interface",
+    "cli",
+    "react-component",
+    "react-modal-component",
+    "npm",
+    "devtreasure-react-modal-component",
+    "devtreasure"
+  ],
   "author": "",
   "license": "MIT",
   "dependencies": {
